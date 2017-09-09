@@ -71,7 +71,7 @@ Define dictionaries:
         }
                    
     :en-GB { :color "colour" } ;; sublang overrides
-    :tongue/fallback :en }     ;; fallback locale key
+    :tongue/fallback :en })    ;; fallback locale key
 ```
 
 Then build translation function:
